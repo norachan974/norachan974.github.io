@@ -12,7 +12,7 @@ github_repo: "https://github.com/norachen974/norachen974.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you are going to be!"
-sidebar-avatar: /img/nora.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/nora.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
